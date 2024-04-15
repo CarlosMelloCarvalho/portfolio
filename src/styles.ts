@@ -13,6 +13,7 @@ const EstiloGlobal = createGlobalStyle`
     font-variation-settings:
       "slnt" 0;
   }
+  list-style: none;
 
 
 }
